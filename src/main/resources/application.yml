@@ -8,4 +8,4 @@ spring:
     config:
       server:
         git:
-          uri: ${config.uri}
+          uri: https://github.com/br-financial-index/configuration.git
